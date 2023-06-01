@@ -1,0 +1,65 @@
+.table{
+    width: 100%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+th, td{
+    padding: 10px;
+    text-align: center;
+    background-color: aquamarine;
+}
+/* Opmaak van cellen */
+#celeen{
+    background-color:blue;
+}
+#celtwee{
+    background-color: antiquewhite;
+}
+#celdrie{
+    background-color: azure;
+}
+#celvier{
+    background-color: greenyellow;
+}
+#celvijf{
+    background-color: green;
+}
+#celzes{
+    background-color: chocolate;
+}
+#celzeven{
+    background-color: darkgreen;
+}
+#celacht{
+    background-color: darkred;
+}
+#celnegen{
+    background-color:rgb(12, 10, 146);
+}
+#celtien{
+    background-color: rgb(150, 116, 71);
+}
+#celelf{
+    background-color: rgb(88, 117, 117);
+}
+#celtwaalf{
+    background-color: rgb(192, 59, 159);
+}
+#celdertien{
+    background-color: rgb(255, 253, 119);
+}
+#celveertien{
+    background-color: rgb(99, 194, 127);
+}
+#celvijftien{
+    background-color: rgb(218, 62, 23);
+}
+#celzestien{
+    background-color: rgb(21, 197, 209);
+}
+/* Afbeeldingen opmaak */
+img{
+    border-radius: 30px;
+    padding: 15px;
+    width: 250px;
+}
